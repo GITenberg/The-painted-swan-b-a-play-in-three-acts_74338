@@ -1,0 +1,33 @@
+_repo: The-painted-swan-b-a-play-in-three-acts_74338
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bibesco, Elizabeth
+    aliases:
+    - Bibescu, Elizabeth Asquith
+    - Asquith, Elizabeth
+    birthdate: 1897
+    deathdate: 1945
+    gutenberg_agent_id: '5890'
+    url: http://www.gutenberg.org/2009/agents/5890
+    wikipedia: https://en.wikipedia.org/wiki/Elizabeth_Bibesco
+description: ''
+gutenberg_issued: '2024-08-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74338'
+language: en
+pgterms:marc904: https://archive.org/details/paintedswanplayi00bibeiala
+pgterms:marc905: 20230430065148bibesco
+pgterms:marc906: '1926'
+pgterms:marc907: GB
+production_note: The Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aLondon :$bHutchinson & Co., $c1926.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The painted swan : $b a play in three acts'
+url: http://www.gutenberg.org/ebooks/74338
