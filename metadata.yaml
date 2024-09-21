@@ -1,5 +1,8 @@
 _repo: The-painted-swan-b-a-play-in-three-acts_74338
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 74338-h/images/cover.jpg
 creator:
   author:
     agent_name: Bibesco, Elizabeth
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5890
     wikipedia: https://en.wikipedia.org/wiki/Elizabeth_Bibesco
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74338#The-painted-swan-b-a-play-in-three-acts
 gutenberg_issued: '2024-08-30'
 gutenberg_type: Text
 identifiers:
